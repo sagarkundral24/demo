@@ -2,4 +2,4 @@
 
 This is a simple readme file
 
-adding some more text. changes on master
+adding some more text
